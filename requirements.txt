@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+pillow
+pdfplumber
+html5lib
+lxml
+xlsxwriter
